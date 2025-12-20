@@ -1,0 +1,317 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "NVIDIA GeForce RTX 5060",
+      "category": "GPU",
+      "price": 999.99,
+      "image": "/src/assets/Products/Nvidia5060.jpg",
+      "description": "Midrange RTX 5060 built for 1080p/1440p gaming with efficient ray tracing and DLSS frame generation."
+    },
+    {
+      "id": "2",
+      "name": "AMD Radeon RX 7900 XTX",
+      "category": "GPU",
+      "price": 899.99,
+      "image": "/src/assets/Products/7900XTX.jpg",
+      "description": "High-performance AMD GPU with 24GB GDDR6 memory and advanced RDNA 3 architecture for exceptional gaming."
+    },
+    {
+      "id": "3",
+      "name": "NVIDIA GeForce RTX 4070 Ti",
+      "category": "GPU",
+      "price": 699.99,
+      "image": "/src/assets/Products/4070Ti.jpg",
+      "description": "Premium 1440p gaming GPU with excellent ray tracing performance and DLSS 3 support."
+    },
+    {
+      "id": "4",
+      "name": "Intel Core Ultra 7 Ultra 265K",
+      "category": "GPU",
+      "price": 649.99,
+      "image": "/src/assets/Products/IntelUltra7.jpg",
+      "description": "Next-gen Intel Core Ultra 7 CPU with hybrid performance/efficiency cores, great for gaming and creation."
+    },
+    {
+      "id": "5",
+      "name": "NVIDIA GeForce RTX 5070",
+      "category": "GPU",
+      "price": 999.99,
+      "image": "/src/assets/Products/Nvidia5070.jpg",
+      "description": "Excellent 1440p and 4K gaming GPU with 16GB GDDR6 memory and exceptional value."
+    },
+    {
+      "id": "6",
+      "name": "Intel Core i9-14900K",
+      "category": "CPU",
+      "price": 589.99,
+      "image": "/src/assets/Products/IntelCore14900K.jpg",
+      "description": "Flagship 24-core processor with hybrid architecture. Perfect for gaming and content creation with blazing fast speeds."
+    },
+    {
+      "id": "7",
+      "name": "AMD Ryzen 7 7700X",
+      "category": "CPU",
+      "price": 449.99,
+      "image": "/src/assets/Products/AMD7700X.jpg",
+      "description": "8-core/16-thread 5nm Ryzen 7 tuned for high clocks and strong gaming and productivity performance."
+    },
+    {
+      "id": "8",
+      "name": "Intel Core i7-14700K",
+      "category": "CPU",
+      "price": 409.99,
+      "image": "/src/assets/Products/IntelCore14700K.jpg",
+      "description": "High-performance 20-core CPU ideal for gaming and productivity. Great balance of power and value."
+    },
+    {
+      "id": "9",
+      "name": "AMD Ryzen 7 5700X3D",
+      "category": "CPU",
+      "price": 379.99,
+      "image": "/src/assets/Products/AMD5700X3D.jpg",
+      "description": "Gaming-focused CPU with 3D V-Cache technology for exceptional performance."
+    },
+    {
+      "id": "10",
+      "name": "Intel Core i5-14600K",
+      "category": "CPU",
+      "price": 279.99,
+      "image": "/src/assets/Products/IntelCore14600K.jpg",
+      "description": "Affordable mid-range processor perfect for mainstream gaming and productivity."
+    },
+    {
+      "id": "11",
+      "name": "ASUS ROG Strix Z790-E",
+      "category": "Motherboard",
+      "price": 449.99,
+      "image": "/src/assets/Products/StrixZ790E.png",
+      "description": "Premium Intel Z790 motherboard with WiFi 7, PCIe 5.0, and robust VRM for overclocking."
+    },
+    {
+      "id": "12",
+      "name": "MSI B650 Gaming Plus Wifi ATX AM5",
+      "category": "Motherboard",
+      "price": 209.99,
+      "image": "/src/assets/Products/B650GamingPlusWifi.jpg",
+      "description": "Feature-rich AMD B650 motherboard with excellent connectivity and cooling solutions."
+    },
+    {
+      "id": "13",
+      "name": "Gigabyte B650 AORUS Elite",
+      "category": "Motherboard",
+      "price": 219.99,
+      "image": "/src/assets/Products/B650AorusElite.jpg",
+      "description": "Value-oriented AMD B650 motherboard with solid features for mainstream builds."
+    },
+    {
+      "id": "14",
+      "name": "MSI MPG Z690 Edge WiFi",
+      "category": "Motherboard",
+      "price": 299.99,
+      "image": "/src/assets/Products/Z690EdgeWifi.png",
+      "description": "Excellent Intel Z690 board with WiFi 6E and PCIe 5.0 support."
+    },
+    {
+      "id": "15",
+      "name": "Corsair Vengeance DDR5 32GB",
+      "category": "RAM",
+      "price": 119.99,
+      "image": "/src/assets/Products/Vengeance32GB.avif",
+      "description": "High-speed 32GB DDR5 memory kit (2x16GB) at 6000MHz with low latency for optimal performance."
+    },
+    {
+      "id": "16",
+      "name": "G.SKILL Trident Z5 RGB 32GB",
+      "category": "RAM",
+      "price": 139.99,
+      "image": "/src/assets/Products/TridentZ532GB.jpg",
+      "description": "Premium RGB DDR5 memory with stunning lighting effects and blazing 6400MHz speeds."
+    },
+    {
+      "id": "17",
+      "name": "Kingston Fury Beast 64GB",
+      "category": "RAM",
+      "price": 219.99,
+      "image": "/src/assets/Products/Beast64GB.jpg",
+      "description": "64GB DDR5 kit for content creators and heavy multitaskers. Reliable performance at 5600MHz."
+    },
+    {
+      "id": "18",
+      "name": "TEAMGROUP T-Create Expert DDR5 32GB",
+      "category": "RAM",
+      "price": 149.99,
+      "image": "/src/assets/Products/T-CreateExpert32GB.jpg",
+      "description": "Excellent performance DDR5 memory with aggressive design and competitive pricing."
+    },
+    {
+      "id": "19",
+      "name": "Crucial Pro 32GB DDR5",
+      "category": "RAM",
+      "price": 109.99,
+      "image": "/src/assets/Products/CrutialPro32GB.jpg",
+      "description": "Fast and reliable DDR5 memory at an affordable price point."
+    },
+    {
+      "id": "20",
+      "name": "NZXT Kraken X63 RGB",
+      "category": "Cooling",
+      "price": 159.99,
+      "image": "/src/assets/Products/KrakenX63.jpg",
+      "description": "280mm AIO liquid cooler with customizable RGB lighting and powerful cooling performance."
+    },
+    {
+      "id": "21",
+      "name": "Noctua NH-D15",
+      "category": "Cooling",
+      "price": 109.99,
+      "image": "/src/assets/Products/NH-D15.jpg",
+      "description": "Premium air cooler with dual-tower design. Quiet operation and exceptional cooling capacity."
+    },
+    {
+      "id": "22",
+      "name": "Arctic Liquid Freezer II 360",
+      "category": "Cooling",
+      "price": 129.99,
+      "image": "/src/assets/Products/FreezerII360.png",
+      "description": "High-performance 360mm AIO with VRM fan for additional motherboard cooling."
+    },
+    {
+      "id": "23",
+      "name": "Corsair iCUE H150i Elite LCD",
+      "category": "Cooling",
+      "price": 199.99,
+      "image": "/src/assets/Products/H150iElite.avif",
+      "description": "Premium 360mm AIO with beautiful LCD screen and excellent cooling performance."
+    },
+    {
+      "id": "24",
+      "name": "Thermalright Peerless Assassin 120 SE",
+      "category": "Cooling",
+      "price": 64.99,
+      "image": "/src/assets/Products/PeerlessAssasin120SE.jpg",
+      "description": "Budget-friendly air cooler with excellent performance. Great value for money."
+    },
+    {
+      "id": "25",
+      "name": "EKWB EK-AIO Basic 240",
+      "category": "Cooling",
+      "price": 84.99,
+      "image": "/src/assets/Products/EK-AIOBasic240.jpg",
+      "description": "Affordable 240mm AIO cooler with solid performance and reliability."
+    },
+    {
+      "id": "26",
+      "name": "Scythe Fuma 2",
+      "category": "Cooling",
+      "price": 64.99,
+      "image": "/src/assets/Products/Fuma2.jpg",
+      "description": "High-performance dual-tower air cooler with quiet operation."
+    },
+    {
+      "id": "27",
+      "name": "Samsung 990 PRO 2TB NVMe",
+      "category": "Storage",
+      "price": 269.99,
+      "image": "/src/assets/Products/990Pro2TB.jpg",
+      "description": "Blazing fast PCIe 4.0 NVMe SSD with 7,450 MB/s read speeds. Perfect for OS and games."
+    },
+    {
+      "id": "28",
+      "name": "WD Black SN850X 1TB NVMe",
+      "category": "Storage",
+      "price": 99.99,
+      "image": "/src/assets/Products/Sn850X1TB.jpg",
+      "description": "Gaming-focused NVMe SSD with excellent performance and endurance ratings."
+    },
+    {
+      "id": "29",
+      "name": "Crucial P5 Plus 4TB NVMe",
+      "category": "Storage",
+      "price": 329.99,
+      "image": "/src/assets/Products/P5Plus4TB.jpg",
+      "description": "Massive 4TB capacity with PCIe 4.0 speeds for storing your entire game library."
+    },
+    {
+      "id": "30",
+      "name": "Kingston NV2 1TB NVMe",
+      "category": "Storage",
+      "price": 74.99,
+      "image": "/src/assets/Products/NV21TB.jpg",
+      "description": "Affordable PCIe 3.0 NVMe SSD with reliable performance."
+    },
+    {
+      "id": "31",
+      "name": "Corsair RM850e 850W",
+      "category": "PSU",
+      "price": 249.99,
+      "image": "/src/assets/Products/RM850E.avif",
+      "description": "850W 80+ Gold fully modular PSU with quiet cooling, ideal for modern gaming rigs."
+    },
+    {
+      "id": "32",
+      "name": "EVGA SuperNOVA 850W Gold",
+      "category": "PSU",
+      "price": 129.99,
+      "image": "/src/assets/Products/SuperNOVA850W.jpg",
+      "description": "Reliable 850W gold-rated PSU with fully modular design. Great for mid to high-end systems."
+    },
+    {
+      "id": "33",
+      "name": "Seasonic FOCUS GX-1000 Gold",
+      "category": "PSU",
+      "price": 179.99,
+      "image": "/src/assets/Products/GX-1000.jpg",
+      "description": "1000W 80+ Gold certified PSU with hybrid fan design. Perfect for RTX 4090 builds."
+    },
+    {
+      "id": "34",
+      "name": "MSI MAG PANO 100R",
+      "category": "Cases",
+      "price": 149.99,
+      "image": "/src/assets/Products/MagPano100R.jpg",
+      "description": "Premium dual-chamber case with excellent airflow and stunning aesthetics. Perfect for custom builds."
+    },
+    {
+      "id": "35",
+      "name": "Fractal Design Torrent",
+      "category": "Cases",
+      "price": 219.99,
+      "image": "/src/assets/Products/Torrent.jpg",
+      "description": "Airflow-focused case with massive 180mm front fans. Excellent cooling for high-end components."
+    },
+    {
+      "id": "36",
+      "name": "NZXT H7 Flow",
+      "category": "Cases",
+      "price": 139.99,
+      "image": "/src/assets/Products/H7Flow.jpg",
+      "description": "Modern case with perforated front panel for optimal airflow. Clean cable management system."
+    },
+    {
+      "id": "37",
+      "name": "Corsair 5000T RGB",
+      "category": "Cases",
+      "price": 299.99,
+      "image": "/src/assets/Products/5000T.avif",
+      "description": "Premium full-tower case with excellent cooling and RGB lighting support."
+    },
+    {
+      "id": "38",
+      "name": "Cooler Master H500M",
+      "category": "Cases",
+      "price": 169.99,
+      "image": "/src/assets/Products/H500M.png",
+      "description": "Mid-tower case with mesh front panel and dual chamber design."
+    },
+    {
+      "id": "39",
+      "name": "Phanteks Eclipse P500A",
+      "category": "Cases",
+      "price": 149.99,
+      "image": "/src/assets/Products/P500A.jpg",
+      "description": "Excellent airflow case with mesh design and impressive build quality."
+    }
+  ],
+  "cart": []
+}
